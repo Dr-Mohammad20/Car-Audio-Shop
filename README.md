@@ -8,7 +8,7 @@ This is a full-stack project for a car audio and video product store. This store
 Pakages Use In Project :
 ![Next.js](https://img.shields.io/badge/Next.js-EF2D5E)
 ![GraphQL](https://img.shields.io/badge/GraphQL-EF2D5E)
-![Redux-Toolkit](https://img.shields.io/badge/Redux-Toolkit-EF2D5E)
-![Tailwind-CSS](https://img.shields.io/badge/Tailwind-CSS-EF2D5E)
-![Sanitize-Html](https://img.shields.io/badge/Sanitize-Html-EF2D5E)
+![Redux-Toolkit](https://img.shields.io/badge/Redux%20Toolkit-EF2D5E)
+![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-EF2D5E)
+![Sanitize-Html](https://img.shields.io/badge/Sanitize%20Html-EF2D5E)
 ![Responsive](https://img.shields.io/badge/Responsive-EF2D5E)
